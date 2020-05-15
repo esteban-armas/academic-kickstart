@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Cyber Security Researcher/Developer"
+  company = "Complutense University of Madrid"
+  company_url = "https://ucm.es"
+  location = "Madrid, Spain"
+  date_start = "2016-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Development of multimedia forensic analysis tool for police use platform.
+  Analysis of images and video, detection of manipulations and identification of source of acquisition.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Web and Mobile Applications Developer"
+  company = "ESRI Spain"
+  company_url = "https://www.esri.es"
+  location = "Madrid, Spain"
+  date_start = "2015-10-01"
+  date_end = "2016-09-30"
+  description = """
+  Web and Mobile Applications Developer.
+  Development of prototype applications for client use, using ESRI technology.
+  Development done in languages: Python, JavaScript, Swift, Objective-C, C#.
+  """
+
+[[experience]]
+  title = "Network Administration and Implementation of Computer Systems"
+  company = "Armas Vega Asociados S.A."
+  company_url = "https://www.armasvega.es"
+  location = "Quito, Ecuador"
+  date_start = "2009-09-01"
+  date_end = "2014-09-30"
+  description = """
+  Design of software applications for inventory management.
+  Design and Implementation of the data network infrastructure, installation and deployment of Servers and Network Equipment.
+  Design and Implementation of Websites and Web Applications (PHP, MySQL).
+  """
 
 +++
